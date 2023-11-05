@@ -1,2 +1,0 @@
-# temptodelete
-# graphql-by-example
